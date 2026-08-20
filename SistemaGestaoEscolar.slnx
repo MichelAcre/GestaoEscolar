@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Api.GestaoEscolar/Api.GestaoEscolar.csproj" />
+  <Project Path="Web.GestaoEscolar/Web.GestaoEscolar.csproj" />
 </Solution>
+
